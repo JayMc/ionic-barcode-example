@@ -1,0 +1,12 @@
+{
+  "name": "barcode",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.13"
+  },
+  "dependencies": {
+    "ngCordova": "~0.1.5-alpha",
+    "firebase": "~1.1.2",
+    "angularfire": "~0.8.2"
+  }
+}
